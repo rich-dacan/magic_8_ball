@@ -1,37 +1,6 @@
 
-Entrega
-=======
-
 Introdução
 ----------
-
-Nesta entrega você criará **um** dos jogos abaixo usando os conceitos de
-**POO** aprendidos durante a sprint.
-
-------------------------------------------------------------------------
-
-Pedra, Papel, Tesoura
----------------------
-
-O jogo clássico onde duas pessoas escolhem entre pedra, papel ou
-tesoura, e mostram suas escolhas com as mãos.
-
-Faça com que:
-
--   O usuário escolha entre pedra, papel ou tesoura;
--   Uma função gere uma escolha aleatória para a escolha do computador;
--   Uma função que compare quem foi o vencedor ou se houve empate;
-
-
-**Importante!**
-
-* Pedra vence tesoura;
-
-* Papel vence pedra;
-
-* Tesoura vence papel;
-------------------------------------------------------------------------
-
 
 Magic 8-ball
 ------------
@@ -54,31 +23,6 @@ pode ser muito bem aplicada a este jogo.
 
 ------------------------------------------------------------------------
 
-
-Máquina Caça-Níquel
--------------------
-
-Faça com que:
-
--   Exista uma estrutura parecida com as máquinas caça-níquel, onde três
-    ou mais figuras ficam alinhadas;
--   Exista um botão que, quando clicado, faz com que essas imagens se
-    \'embaralhem\';
--   Após determinado tempo, ou com um novo clique do botão, as imagens
-    \'parem\' cada uma em um slot, indicando a vitória ou não do
-    usuário;
-
-**Dica!**
-
-Veja esse [exemplo](https://odhyan.com/slot/) e como foi
-[construído](https://odhyan.com/blog/2011/05/slot-machine-in-javascript/)
-(em inglês);
-
-Mais um [exemplo](https://torutsume.net/en/slot-machine-by-javascript/)
-(em inglês).
-
-------------------------------------------------------------------------
-
 Itens Obrigatórios:
 -------------------
 
@@ -98,13 +42,3 @@ Itens Obrigatórios:
 Todos os jogos sugeridos precisam gerar [números
 aleatórios](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 .
-
-------------------------------------------------------------------------
-
-**Envio!**
-
-Faça o push do código para o seu repositório GitHub e implemente-o no
-GitHub pages. No Canvas, por favor, envie o GitHub Pages: (ex:
-[https://nomedeusuario.github.io/m1-s4-entrega-construa-um-de-azar](#))
-e o link do seu repositório nos comentários. Após o desenvolvimento,
-deixe o repositório público para que seus colegas consigam jogar. 🥳
